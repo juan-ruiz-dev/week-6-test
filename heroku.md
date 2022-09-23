@@ -1,3 +1,4 @@
 ## Paste your link below
 
-<!-- https://trello.com/b/thKWqU3p/duel-duo -->
+https://jr-week6-test.herokuapp.com/
+https://trello.com/b/thKWqU3p/duel-duo
